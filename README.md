@@ -19,7 +19,7 @@ The dataset was sourced from Kaggle and includes two files: job postings and ass
 
 ## Dataset
 
-- **job_postings.csv:** Contains details like job titles, company names, job locations, job levels, and timestamps.  
+- **job_postings.csv:** Contains details like job titles, company names, job locations, and job levels.  
 - **job_skills.csv:** Lists in-demand skills for each job posting.
 
 The data reflects LinkedIn job postings related to data science roles as of January 2024.
