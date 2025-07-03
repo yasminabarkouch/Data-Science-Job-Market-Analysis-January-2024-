@@ -53,16 +53,27 @@ The data reflects LinkedIn job postings related to data science roles as of Janu
    
    Senior Data Engineer, Senior Data Analyst, and Data Engineer roles were most frequently posted.
 
-3. **Job Postings by Country:**  
+3. **Job Postings by Country:**
+
+   ![Job By Country](images/job_posting_by_country.png)
+   
    84% of job postings originated from the United States, followed by the United Kingdom, Canada, and Australia.
 
-4. **Top Hiring Companies:**  
+5. **Top Hiring Companies:**
+
+   ![Top Hiring Companies](images/top_hiring_companies.png)
+   
    A mix of startups (Jobs for Humanity, Recruiting from Scratch) and established companies (Dice) dominate hiring.
 
-5. **Active Canadian Cities:**  
+7. **Active Canadian Cities:**
+
+   ![Active Canadian Cities](images/top_job_posting_cities_in_canada.png)
+   
    Toronto, Montreal, and Calgary are the top Canadian cities for data science jobs.
 
-6. **In-Demand Skills by Job Level:**  
+9. **In-Demand Skills by Job Level:**
+
+   ![In-Demand Skills by Job Level](images/top_skills_by_job_level.png)
    Python, SQL, and Communication skills lead for Associate and Mid-Senior roles, with Tableau and Machine Learning also in demand.
 
 ---
@@ -88,11 +99,12 @@ The data reflects LinkedIn job postings related to data science roles as of Janu
 ## How to Run
 
 1. Clone this repository.  
-2. Open `analysis.ipynb` in Jupyter Notebook.  
+2. Open `data_science_job_posting.ipynb` in Jupyter Notebook.  
 3. Ensure dependencies are installed:  
    ```bash
    pip install pandas matplotlib seaborn plotly bokeh
 
 ## References
 Dataset from Kaggle: Data Science Job Postings & Skills (2024)
+
 Link : https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills
