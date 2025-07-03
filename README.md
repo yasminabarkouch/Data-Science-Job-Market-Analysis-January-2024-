@@ -49,6 +49,7 @@ The data reflects LinkedIn job postings related to data science roles as of Janu
 
 1. **Popular Job Titles:**
    ![Top Job Titles](images/top_job_title.png)
+   
    Senior Data Engineer, Senior Data Analyst, and Data Engineer roles were most frequently posted.
 
 3. **Job Postings by Country:**  
