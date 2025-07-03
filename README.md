@@ -47,19 +47,20 @@ The data reflects LinkedIn job postings related to data science roles as of Janu
 
 ## Key Insights
 
-1. **Popular Job Titles:**  
+1. **Popular Job Titles:**
+   ![Top Job Titles](images/top_job_title.png)
    Senior Data Engineer, Senior Data Analyst, and Data Engineer roles were most frequently posted.
 
-2. **Job Postings by Country:**  
+3. **Job Postings by Country:**  
    84% of job postings originated from the United States, followed by the United Kingdom, Canada, and Australia.
 
-3. **Top Hiring Companies:**  
+4. **Top Hiring Companies:**  
    A mix of startups (Jobs for Humanity, Recruiting from Scratch) and established companies (Dice) dominate hiring.
 
-4. **Active Canadian Cities:**  
+5. **Active Canadian Cities:**  
    Toronto, Montreal, and Calgary are the top Canadian cities for data science jobs.
 
-5. **In-Demand Skills by Job Level:**  
+6. **In-Demand Skills by Job Level:**  
    Python, SQL, and Communication skills lead for Associate and Mid-Senior roles, with Tableau and Machine Learning also in demand.
 
 ---
