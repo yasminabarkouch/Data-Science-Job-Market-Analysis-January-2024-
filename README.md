@@ -108,3 +108,15 @@ The data reflects LinkedIn job postings related to data science roles as of Janu
 Dataset from Kaggle: Data Science Job Postings & Skills (2024)
 
 Link : https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills
+
+Data source: LinkedIn job postings
+
+## Author
+
+Yasmina Barkouch — Data Analyst Enthusiast
+
+LinkedIn Profile :www.linkedin.com/in/yasminabarkouch
+
+
+
+
